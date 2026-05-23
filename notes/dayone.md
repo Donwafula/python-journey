@@ -13,7 +13,6 @@ print("My name is Donald")
 
 __Variables__\
 They are used to store information\
-e.g.:
 ```
 name = "Donald"
 age = 10
@@ -22,7 +21,6 @@ height = 1.5
 _Rules:_ start with lowercase letters, no spaces, use _ instead of -,
 
 _Printing variables:_\
-e.g.:
 ```
 # Python program to print my detaols
 name = "Donald"
@@ -39,7 +37,7 @@ Output:
 ```
 Donald
 My name is Donald
-"I am 10 years old
+I am 10 years old
 I am 1.5 meters tall
 ```
 
@@ -63,7 +61,6 @@ a ** b: exponential (a raised to power b)\
 
 __Input__\
 programs can ask questions\
-e.g.:
 ```
 name = input("What is your name? ")
 ```
