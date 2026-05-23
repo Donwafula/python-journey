@@ -3,29 +3,30 @@
 
 Documenting my journey learning Python, data science, automation, and software development.
 
-# Goals
+__Goals__
 - Learn Python fundamentals
 - Build projects consistently
 - Practice data analysis
 - Learn Git and GitHub
 - Transition into professional software/data work
 
-# Topics
-Foundations           Variables, data types, input/output, math
-Logic                 Conditions, loops
-Data structures       Lists, dictionaries, tuples, sets
-Functions             Reusable code
-Files                 Reading and writing data
-Data science core     Numpy, Pandas, Visualization
-Real analysis         Cleaning and analyzing datasets
+__Topics__\
+Foundations           Variables, data types, input/output, math\
+Logic                 Conditions, loops\
+Data structures       Lists, dictionaries, tuples, sets\
+Functions             Reusable code\
+Files                 Reading and writing data\
+Data science core     Numpy, Pandas, Visualization\
+Real analysis         Cleaning and analyzing datasets\
 Machin learning       Predictions and models
 
-## Projects
-- Calculator App??
-- Password Generator??
-- Expense Tracker??
+__Projects__
+- Calculator App
+- Password Generator
+- Expense Tracker
+- etc.
 
-## Technologies
+__Technologies__
 - Python
 - Jupyter Notebook
 - Git & GitHub
