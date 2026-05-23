@@ -79,7 +79,7 @@ __NOTE:__ Python checks from top to bottom and stops at the first true condition
 __Logical operators__\
 `and`: Both must be true\
 `or` : at least one must be true\
-`not`: reverses the condition\
+`not`: reverses the condition
 
 Example - `and`:
 ```
@@ -106,10 +106,10 @@ if not is_raining:
 
 __`try`__\
 used for error handling—it lets your program attempt to run code that might fail, without crashing the entire program\
-_how it works_\
-1. __`try` block__: you put risky code inside\
-2. if no error happens, python runs normally\
-3. if an error happens, python jumps to `except` instead of crashing\
+_how it works_
+1. __`try` block__: you put risky code inside
+2. if no error happens, python runs normally
+3. if an error happens, python jumps to `except` instead of crashing
 
 Example:
 ```
