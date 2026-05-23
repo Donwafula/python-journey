@@ -1,6 +1,6 @@
 # variables; input/output; math; data types
 
-Created my first python program _hello.py_ to print my name:\
+Created my first python program _hello.py_ to print my name:
 ```
 print("My name is Donald")
 ```
@@ -12,7 +12,7 @@ print("My name is Donald")
 ```
 
 __Variables__\
-They are used to store information\
+They are used to store information
 ```
 name = "Donald"
 age = 10
@@ -20,7 +20,7 @@ height = 1.5
 ```
 _Rules:_ start with lowercase letters, no spaces, use _ instead of -,
 
-_Printing variables:_\
+_Printing variables:_
 ```
 # Python program to print my detaols
 name = "Donald"
@@ -60,7 +60,7 @@ a ** b: exponential (a raised to power b)\
 -a:     negation
 
 __Input__\
-programs can ask questions\
+programs can ask questions
 ```
 name = input("What is your name? ")
 ```

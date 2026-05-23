@@ -103,3 +103,22 @@ is_raining = False
 if not is_raining:
   print("Go outside")
 ```
+
+__`try`__\
+used for error handling—it lets your program attempt to run code that might fail, without crashing the entire program\
+_how it works_\
+1. __`try` block__: you put risky code inside\
+2. if no error happens, python runs normally\
+3. if an error happens, python jumps to `except` instead of crashing\
+
+Example:
+```
+try:
+  number = int(input("Enter a number: "))
+  print(f"You entered:{number}")
+except:
+  print("That was not a valid number!")
+```
+_what happens:_\
+user types `5`: works fine\
+user types `abc`: no crash, friendly message
