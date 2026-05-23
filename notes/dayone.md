@@ -45,7 +45,7 @@ __Data types__\
   string - text\
   integer - whole number\
   float - decimal numbers\
-  boolean - true or false\
+  boolean - true or false
 
 use `type()` to check data types
 
