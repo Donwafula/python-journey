@@ -1,7 +1,6 @@
 # variables; input/output; math; data types
 
 Created my first python program hello.py to print my name:
-
 print("My name is Donald")
 
 Comments: #
@@ -27,9 +26,9 @@ Data types
     use type() to check data types
 
 Math operators
-a + b:  addition
-a - b:  subtraction
-a * b:  multiplication
+    a + b:  addition
+    a - b:  subtraction
+    a * b:  multiplication
     a / b:  true division
     a // b: floor division. Rounds down to nearest whole number
     a % b:  modulus (int remainder)
