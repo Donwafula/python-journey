@@ -97,6 +97,3 @@ Output:
 2, 1
 ```
 Important for: matrices, tables, machine learning
-
-
-# Lists
