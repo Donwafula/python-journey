@@ -223,4 +223,4 @@ for i in range(len(fruits)):
 1. row numbering
 2. indexing data
 3. tracking iterations
-debugging loops
+4. debugging loops
