@@ -41,7 +41,7 @@ Output:
 index -1 = last item\
 index -2 = second last item
 
-__Changing list values__
+__Changing list values__\
 Lists are mutable.\
 Example:
 ```
@@ -59,7 +59,7 @@ numbers = [1, 2, 3]
 numbers.append(4)
 print(numbers)
 ```
-Output: `[1, 2, 3, 4]`\
+Output: `[1, 2, 3, 4]`
 
 __Removing items__\
 `remove()`
@@ -71,7 +71,7 @@ print(fruits)
 Output: `['apple', 'mango']`
 
 __List length__\
-Use `len()`\
+Use `len()`
 ```
 numbers = [1, 2, 3, 4]
 print(len(numbers))
@@ -133,7 +133,7 @@ __Reverse sorting__\
 `numbers.sort(reverse=True)`
 
 __List slicing__\
-Extract part of a list.\
+Extract part of a list.
 ```
 numbers = [1, 2, 3, 4, 5]
 print(numbers[1:4])
@@ -170,14 +170,14 @@ def square(x):
     return x * x
 ```
 _usage:_ `print(square(5))`\
-_Output:_ `25`\
+_Output:_ `25`
 
-_same thing using lambda:_\
+Same thing using lambda:
 ```
 square = lambda x: x * x
 print(square(5))
 ```
-_same output:_ `25`\
+same output: `25`
 
 __Structure of lambda__\
 `lambda parameter: result`\
